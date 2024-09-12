@@ -36,4 +36,3 @@ Inicio
     imprimir 'Precio del tiquete: {precio}cop'
     imprimir 'Tu asiento es: {fila}{asiento}'
 fin
-
